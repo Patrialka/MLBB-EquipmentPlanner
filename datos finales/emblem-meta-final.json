@@ -11,7 +11,7 @@
             {
                "physical_attack":"14.00",
                "hp":"267",
-               "attack_speed":"3.00%",
+               "attack_speed":"12.00%",
                "hp_regen_rate":"18.00",
                "critical_strike_chance":"2.00%"
             }
@@ -33,7 +33,7 @@
                      "icon":"http://mlbb.realityblender.com/subtalents/firmness.png",
                      "modifiers":[
                         {
-                           "physical_defense":"12.00"
+                           "physical_defense":"30.00"
                         }
                      ]
                   },
@@ -42,7 +42,7 @@
                      "icon":"http://mlbb.realityblender.com/subtalents/shield.png",
                      "modifiers":[
                         {
-                           "magic_defense":"12.00"
+                           "magic_defense":"33.00"
                         }
                      ]
                   }
@@ -128,7 +128,7 @@
                      "icon":"http://mlbb.realityblender.com/subtalents/vitality.png",
                      "modifiers":[
                         {
-                           "hp":"200.00"
+                           "hp":"300.00"
                         }
                      ]
                   },
@@ -379,7 +379,7 @@
                      "modifiers":[
 
                      ],
-                     "passive_ability":"Killing jungle monsters hit by Retribution grants 50 extra gold."
+                     "passive_ability":"Killing jungle monsters hit by Retribution grants 100 extra gold."
                   },
                   {
                      "name":"Wild Power",
