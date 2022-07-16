@@ -46,7 +46,7 @@
             {
                "movement_speed":"260",
                "physical_attack":"115",
-               "physical_defense":"24",
+               "physical_defense":34",
                "physical_lifesteal":"null",
                "physical_penetration":"null",
                "magic_attack":"null",
@@ -54,7 +54,7 @@
                "magic_penetration":"null",
                "magic_lifesteal":"null",
                "spell_vamp":"null",
-               "magic_resistance":"10",
+               "magic_resistance":"30",
                "hp":"2769",
                "mana":"422",
                "attack_speed":"0.85",
